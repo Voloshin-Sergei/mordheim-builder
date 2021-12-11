@@ -1,0 +1,2 @@
+(this["webpackJsonpmordheim-builder"]=this["webpackJsonpmordheim-builder"]||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var r=n(1),c=n.n(r),i=n(3),s=n.n(i),d=(n(8),n(0));var o=function(){return Object(d.jsx)("div",{className:"App",children:"Test"})};s.a.render(Object(d.jsx)(c.a.StrictMode,{children:Object(d.jsx)(o,{})}),document.getElementById("root"))},8:function(e,t,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.9285d128.chunk.js.map

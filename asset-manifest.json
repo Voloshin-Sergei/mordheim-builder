@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mordheim-builder/static/css/main.59a2abdd.chunk.css",
+    "main.js": "/mordheim-builder/static/js/main.9285d128.chunk.js",
+    "main.js.map": "/mordheim-builder/static/js/main.9285d128.chunk.js.map",
+    "runtime-main.js": "/mordheim-builder/static/js/runtime-main.3f696cf9.js",
+    "runtime-main.js.map": "/mordheim-builder/static/js/runtime-main.3f696cf9.js.map",
+    "static/js/2.86272acc.chunk.js": "/mordheim-builder/static/js/2.86272acc.chunk.js",
+    "static/js/2.86272acc.chunk.js.map": "/mordheim-builder/static/js/2.86272acc.chunk.js.map",
+    "index.html": "/mordheim-builder/index.html",
+    "static/css/main.59a2abdd.chunk.css.map": "/mordheim-builder/static/css/main.59a2abdd.chunk.css.map",
+    "static/js/2.86272acc.chunk.js.LICENSE.txt": "/mordheim-builder/static/js/2.86272acc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f696cf9.js",
+    "static/js/2.86272acc.chunk.js",
+    "static/css/main.59a2abdd.chunk.css",
+    "static/js/main.9285d128.chunk.js"
+  ]
+}
