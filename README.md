@@ -1,6 +1,7 @@
 # Mordheim builder
 
 Simple warband builder for table wargame [Mordheim](https://en.wikipedia.org/wiki/Mordheim) in [Warhammer Fantasy](<https://en.wikipedia.org/wiki/Warhammer_(game)>) world.
+Warbands lists took from [broheim.net](https://broheim.net/warbands.html)
 
 ## Function:
 

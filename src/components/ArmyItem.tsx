@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import uniqid from 'uniqid';
 
-import Unit from './Unit';
+import { Unit } from './Unit';
 
 export interface ArmyItemProps {
   unit: {
