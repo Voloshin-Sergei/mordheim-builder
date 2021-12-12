@@ -35,8 +35,6 @@ export const ArmyList: React.FC<ArmyListProps> = ({ warband }) => {
   return (
     <div>
       <div className="row blue-grey darken-2" style={{ padding: '20px' }}>
-        {' '}
-        // TODO carry out styles to App css
         <span className="flow-text col s8">Warband list: {warbandName}</span>
         <div className="flow-text col s4 right-align">
           <span className="darken-4 ">Total cost: </span>
@@ -57,3 +55,5 @@ export const ArmyList: React.FC<ArmyListProps> = ({ warband }) => {
     </div>
   );
 };
+
+// TODO carry out styles to App css

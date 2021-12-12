@@ -1,6 +1,5 @@
 import { useState } from 'react';
-
-import WargearItem from './WargearItem';
+import { WargearItem } from './WargearItem';
 
 export interface WargearListProps {
   wargearList: {
@@ -23,8 +22,6 @@ export const WargearList: React.FC<WargearListProps> = (props) => {
     <div
       className="row blue-grey lighten-3"
       style={{ padding: '10px 20px', marginBottom: '0', fontSize: '1.2rem' }}>
-      {' '}
-      // TODO carry out styles to App css
       <div style={{ marginBottom: '10px', cursor: 'pointer' }} onClick={toggleClass}>
         Choes quipment:
       </div>
@@ -34,3 +31,5 @@ export const WargearList: React.FC<WargearListProps> = (props) => {
     </div>
   );
 };
+
+// TODO carry out styles to App css
