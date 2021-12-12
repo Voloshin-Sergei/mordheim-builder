@@ -1,4 +1,4 @@
-import WargearList from './WargearList';
+import { WargearList } from './WargearList';
 
 export interface UnitProps {
   unit: {

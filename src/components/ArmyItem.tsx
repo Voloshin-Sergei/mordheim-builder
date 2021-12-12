@@ -63,6 +63,8 @@ export const ArmyItem: React.FC<ArmyItemProps> = (props) => {
 
   return (
     <div style={{ marginBottom: '10px' }}>
+      {' '}
+      // TODO carry out styles to App css
       <div
         className="row blue-grey valign-wrapper"
         style={{ padding: '20px', marginBottom: '0', fontSize: '1.5rem' }}>
