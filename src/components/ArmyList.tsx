@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import ArmyItem from './ArmyItem';
+import { ArmyItem } from './ArmyItem';
 
 export interface ArmyListProps {
   warband: {
